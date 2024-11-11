@@ -29,7 +29,27 @@ The analysis is structured into the following steps:
    - Descriptive statistics
    - Visualization of key features influencing churn
    - Correlation analysis to identify strong relationships
+## Some EDA Visualizations:
+**a. Customer churn distribution-**
 
+![Churn Distribution](https://github.com/user-attachments/assets/6ebd4ef0-b767-439e-ad79-296b220895b0)
+> 26.6 % of customers switched to another firm.
+
+
+**b. Customer churn by gender-**
+
+![Screenshot 2024-11-12 000848](https://github.com/user-attachments/assets/b1d41fe3-c049-49c0-bb25-c41da492d8c2)
+> Both male and female customers have similar churn rates, with the majority in each group not churning. This suggests that gender does not significantly impact churn likelihood in this dataset.
+
+
+**c. Customer churn based on senior citizenship-**
+
+![Screenshot 2024-11-12 001347](https://github.com/user-attachments/assets/08cbd999-c431-4cb4-813d-cb30cee8eaf4)
+> Non-senior citizens have a much higher count in both churn and non-churn categories, while senior citizens have a lower count overall, with slightly more non-churners.
+> This indicates that senior citizenship may not be a major factor in predicting churn.
+
+
+**d. 
 3. **Insights**: Summary of findings on factors influencing churn, including:
    - High churn rates among certain customer segments
    - Trends related to usage and billing that may predict churn
