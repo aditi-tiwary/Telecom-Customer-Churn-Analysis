@@ -49,7 +49,41 @@ The analysis is structured into the following steps:
 > This indicates that senior citizenship may not be a major factor in predicting churn.
 
 
-**d. 
+**d. Customer churn with respect to customers having dependents-**
+
+![Screenshot 2024-11-12 214354](https://github.com/user-attachments/assets/bc37f696-bf7b-44ea-9f29-eaf5860c18c2)
+> Customers without dependents have a higher churn rate compared to those with dependents. This suggests that having dependents might be associated with greater customer retention.
+
+
+**e. Customer Churn based on Phone Service-**
+
+![Screenshot 2024-11-12 215006](https://github.com/user-attachments/assets/e1e7c78c-49fa-4453-b764-34153a2e7832)
+> Customers with phone service have a higher churn rate compared to those without it, though most still do not churn. This suggests that having phone service might slightly increase the likelihood of churn.
+
+
+**f. Churn Distribution by Internet Service Type-**
+
+![Screenshot 2024-11-12 220825](https://github.com/user-attachments/assets/68155784-bab0-491d-b4bd-edc23f4fa394)
+> Customers with fiber optic internet have a higher churn rate compared to those with DSL or no internet service, suggesting that fiber optic users may be more likely to leave.
+
+
+**g. customer churn rates based on contract type-** 
+
+![Screenshot 2024-11-12 221238](https://github.com/user-attachments/assets/fb0e5993-4ddc-4821-887e-b1d90356155d)
+> The graph shows that month-to-month contracts have the highest churn, while one-year and two-year contracts show significantly lower churn rates.
+
+
+**h. Customer Churn with respect to Paperless Billing-**
+
+![Screenshot 2024-11-12 221732](https://github.com/user-attachments/assets/d01257bf-16db-462d-af83-30991d08dba4)
+> Customers with paperless billing are more likely to churn compared to those who do not use paperless billing.
+
+
+**i. customer churn rates by tenure group-**
+
+![Screenshot 2024-11-12 222025](https://github.com/user-attachments/assets/aaad8408-9833-4bc0-86fe-a72cd9a16565)
+> Customers with shorter tenures (1-12 months) have the highest churn, while churn decreases significantly with longer tenure.
+
 3. **Insights**: Summary of findings on factors influencing churn, including:
    - High churn rates among certain customer segments
    - Trends related to usage and billing that may predict churn
